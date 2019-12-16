@@ -98,21 +98,21 @@ div {
     background-size: cover;
     height: 300px;
     width: 48%;
-    margin: 0 2% 0% 0%
+    margin: 0 2% 2% 0%
   }
   .preview.london {
     background-image: url("/images/london.png");
     background-size: cover;
     height: 300px;
     width: 48%;
-    margin: 0 2% 0% 0
+    margin: 0 2% 2% 0
   }
   .preview.madrid {
     background-image: url("/images/madrid.jpg");
     background-size: cover;
     height: 300px;
     width: 48%;
-    margin: 0 2% 0% 0
+    margin: 0 2% 2% 0
   }
   .preview.rome {
     background-image: url("/images/rome.jpg");
